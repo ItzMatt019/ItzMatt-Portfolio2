@@ -2,7 +2,7 @@ module.exports = {
   apps : [{
     name: "itzmattportfolio",
     script: "npm",
-    args: "start",
+    args: "start -p 4783",
     cwd: "/home/itzmattportfolio/src",
     watch: true,
     env: {
