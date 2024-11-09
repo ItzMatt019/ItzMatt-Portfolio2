@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/components/*": ["src/components/*"],
+      "@/pages/*": ["src/pages/*"],
+      "@/public/*": ["src/public/*"],
+      "@/styles/*": ["src/styles/*"],
+    }
+  },
+  "include": ["src/**/*.js", "next.config.js"]
+}
