@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev ./src",
-    "build": "next dev ./src",
-    "start": "next dev ./src"
+    "build": "next build ./src",
+    "start": "next start ./src"
   },
   "dependencies": {
     "react": "19.0.0-rc-66855b96-20241106",
