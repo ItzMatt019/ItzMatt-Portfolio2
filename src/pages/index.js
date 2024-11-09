@@ -1,5 +1,5 @@
-import AboutMeBox from 'src3/components/AboutMeBox';
-import Projects from 'src3/components/Projects';
+import AboutMeBox from '@/components/AboutMeBox';
+import Projects from '@/components/Projects';
 
 export default function Home() {
   return (
