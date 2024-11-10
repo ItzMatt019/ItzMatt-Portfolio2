@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           {/* Basic Meta Tags */}
           <title>ItzMatt019</title>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="https://i.itzmattcdn.com/api/user/520599749456560140/r28LllhS.ico" />
 
           {/* Theme Color for Mobile and Browser UI */}
           <meta name="theme-color" content="#FBB827" />
